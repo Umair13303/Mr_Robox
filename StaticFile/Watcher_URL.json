@@ -1,0 +1,9 @@
+[
+	{
+		"Sr": 1,
+		"Script_URL": "https://raw.githubusercontent.com/Umair13303/Mr_Robox/refs/heads/main/BatchScript/Demo/DummyEcho.bat",
+		"Alias": "DummyEcho",
+		"Location": "%TEMP%\\Watcher_URLs.csv#%TEMP%\\Watcher_URLs_2.csv",
+		"Status": "true"
+	}
+]
