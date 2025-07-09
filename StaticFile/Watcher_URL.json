@@ -9,7 +9,7 @@
 		"Registery_Key": [ "DummyEcho_RegKey", "DummyEcho_RegKey_02" ],
 		"Task_Name": [ "DummyEcho_Task_Name", "DummyEcho_Task_Name_02" ],
 		"ShortCut": [ "DummyEcho_ShortCut", "DummyEcho_ShortCut" ],
-		"Script_Type": [ "PayLoad" ]
+		"Script_Type": [ "BootStrapper" ]
 	},
 	{
 		"Sr": 2,
