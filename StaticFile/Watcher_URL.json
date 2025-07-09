@@ -1,4 +1,5 @@
 [
+
 	{
 		"Sr": 1,
 		"Script_URL": "https://raw.githubusercontent.com/Umair13303/Mr_Robox/refs/heads/main/BatchScript/Demo/DummyEcho.bat",
@@ -7,6 +8,18 @@
 		"Status": "true",
 		"Registery_Key": [ "DummyEcho_RegKey", "DummyEcho_RegKey_02" ],
 		"Task_Name": [ "DummyEcho_Task_Name", "DummyEcho_Task_Name_02" ],
-		"ShortCut": [ "DummyEcho_ShortCut", "DummyEcho_ShortCut" ]
+		"ShortCut": [ "DummyEcho_ShortCut", "DummyEcho_ShortCut" ],
+		"Script_Type": [ "PayLoad" ]
+	},
+	{
+		"Sr": 2,
+		"Script_URL": "https://raw.githubusercontent.com/Umair13303/Mr_Robox/refs/heads/main/BatchScript/Demo/DummyEcho.bat",
+		"Alias": "DummyEcho",
+		"Location": [ "%TEMP%\\DummyEcho.baT", "%TEMP%\\DummyEcho_2.bat" ],
+		"Status": "true",
+		"Registery_Key": [ "DummyEcho_RegKey", "DummyEcho_RegKey_02" ],
+		"Task_Name": [ "DummyEcho_Task_Name", "DummyEcho_Task_Name_02" ],
+		"ShortCut": [ "DummyEcho_ShortCut", "DummyEcho_ShortCut" ],
+		"Script_Type": [ "PayLoad" ]
 	}
 ]
