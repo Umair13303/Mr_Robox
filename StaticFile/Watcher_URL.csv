@@ -1,2 +1,2 @@
 Sr,Watcher_URL,Alias,Location,Status
-1,https://raw.githubusercontent.com/Umair13303/Mr_Robox/refs/heads/main/BatchScript/Stealth/%20Advance_PersistenceImplant_PC.bat,Basic_Alert_Watcher.ps1,"%TEMP%\Watcher_URLs.csv#%TEMP%\Watcher_URLs_2.csv",true
+1,https://raw.githubusercontent.com/Umair13303/Mr_Robox/refs/heads/main/BatchScript/Demo/DummyEcho.bat,"%TEMP%\Watcher_URLs.csv#%TEMP%\Watcher_URLs_2.csv",true
